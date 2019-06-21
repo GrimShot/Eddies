@@ -5,7 +5,7 @@ What are Eddies?
 
 Eddies or Euro-dollar is the currency of the future. 
 In the cyberpunk world Mike Pondsmith created the cyberpunks use it as their means of storing value.
-They are now integrated in this world's cyberspace so any netrunner can mine and aqquire them and exchange them between them.
+They are now integrated in this world's cyberspace so any netrunner can mine, aqquire and exchange between them.
 
 This cryptocurrency was created from a true fan and with the sole purpose of bringing some of the cyberpunk world into our reality.
 It serves as a way for people from this community to feel immersed and somewhat part of something, the idea is to be able to exchange Eddies between the cyberpunks for services or any other thing they so aggree, with all the advantages of a decentralized, censorship free, unregulated currency away from all the corpos from today.
@@ -24,7 +24,7 @@ It is a fork from Litecoin, so i am not creating anything new or revolutionary h
 
 Are you convinced? well then, let's do this!!
 Download the executables and help strengthen the network.
-Feel free to add and contribute to the deelopment and share this as you wish. 
+Feel free to add and contribute to the development and share this as you wish. 
 
 ########################################################################################################################
 ########################################################################################################################
